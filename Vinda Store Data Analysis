@@ -5,7 +5,7 @@ An interactive Excel dashboard project analyzing the annual sales, customer demo
 📊 Project Overview
 This project processes and visualizes retail store data to uncover key business insights, sales trends, and channel performance. The goal of this dashboard is to help stakeholders track performance metrics clearly through dynamic charts and pivot tables.
 
-## 🚀 Key Features & Insights
+ 🚀 Key Features & Insights
 Monthly Sales & Orders Trend: Analyzed month-wise revenue generation and order counts across 2022.
 Men vs. Women Sales Breakdown: Evaluated the proportion of sales contribution between male and female customers.
 Order Status Distribution: Tracked delivery success rates, including delivered, cancelled, returned, and refunded orders.
