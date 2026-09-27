@@ -23,5 +23,4 @@ Sales Channels: Compared revenue and order distribution across multiple platform
 - Vinda Store Analysis 2022.xlsx: The complete Excel workbook containing raw data, pivot calculations, and the final interactive dashboard.
 - Vinda Store Data: Cleaned dataset source files.
 
-📸 Dashboard Preview
-(Aap yahan apne Excel dashboard ka screenshot upload karke image link laga sakte hain)
+
